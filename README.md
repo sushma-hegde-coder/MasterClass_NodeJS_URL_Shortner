@@ -28,3 +28,5 @@ create database sclrac;
 create user sclrac identified by 'sclrac';
 grant all privileges on sclrac.* to sclrac;
 ```
+
+arnav.gupta@scaler.com
